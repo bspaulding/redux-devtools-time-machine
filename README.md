@@ -18,7 +18,9 @@ Click restore to jump back to the currently viewed state.
 
 Press `ctrl-T` to toggle the TARDIS
 
-Use the arrow keys (up/down) to move through time.
+Use the arrow keys (`up/down`) to move through time.
+
+Pressing `shift+up` or `shift+down` will jump to the first/last states.
 
 Press `meta-Enter` (`cmd-Enter` on a Mac) to restore the currently viewed state.
 
