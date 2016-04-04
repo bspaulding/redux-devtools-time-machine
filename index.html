@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="css/font-awesome.min.css"/>
+		<link rel="stylesheet" href="css/3d-button.css"/>
+		<style>
+			html, body, #app {
+				margin: 0;
+				padding: 0;
+				height: 100%;
+			}
+			@keyframes tardisActive {
+				0%   { transform: scale(1) rotate(0); }
+				25%  { transform: scale(1.5)  rotate(30deg); }
+				50%  { transform: scale(1) rotate(0); }
+				75%  { transform: scale(1.5) rotate(-30deg); }
+			}
+			@media (min-aspect-ratio: 16/9) {
+			  .fullscreen-bg__video {
+			    height: 300%;
+			    top: -100%;
+			  }
+			}
+			@media (max-aspect-ratio: 16/9) {
+			  .fullscreen-bg__video {
+			    width: 300%;
+			    left: -100%;
+			  }
+			}
+		</style>
+	</head>
+	<body>
+		<div id="app"></div>
+		<script src="bundle.js"></script>
+	</body>
+</html>
