@@ -21,3 +21,7 @@ Press `ctrl-T` to toggle the TARDIS
 Use the arrow keys (up/down) to move through time.
 
 Press `meta-Enter` (`cmd-Enter` on a Mac) to restore the currently viewed state.
+
+## Demo
+
+[View Demo](http://bspaulding.github.io/redux-devtools-time-machine/)
