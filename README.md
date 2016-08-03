@@ -6,8 +6,7 @@ Totally impractical, but hugely fun!
 Currently, this monitor renders the app for each computed state.
 If you lock up your browser, or other weird stuff happens, you have been warned.
 
-![Demo](http://imgur.com/download/D25piA4)
-
+<img src="http://bspaulding.github.io/redux-devtools-time-machine/demo.gif"/>
 
 ## Controls
 
