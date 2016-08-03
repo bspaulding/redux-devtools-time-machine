@@ -8,7 +8,6 @@ If you lock up your browser, or other weird stuff happens, you have been warned.
 
 ![Demo](http://bspaulding.github.io/redux-devtools-time-machine/demo.gif)
 
-
 ## Controls
 
 Click the TARDIS to engage or disengage time travel.
