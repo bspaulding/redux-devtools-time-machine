@@ -6,6 +6,8 @@ Totally impractical, but hugely fun!
 Currently, this monitor renders the app for each computed state.
 If you lock up your browser, or other weird stuff happens, you have been warned.
 
+I also haven't bothered to make the CSS work for non-Chrome, so it will likely only look correct in Chrome, if that.
+
 ![Demo](http://bspaulding.github.io/redux-devtools-time-machine/demo-compressed.gif)
 
 ## Controls
